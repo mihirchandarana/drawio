@@ -10,7 +10,7 @@
         <mxCell id="10b056a9c633e61c-5" value="" style="strokeWidth=1;dashed=0;align=center;fontSize=8;shape=rect;fillColor=#ffffff;strokeColor=#000000;" parent="10b056a9c633e61c-4" vertex="1">
           <mxGeometry x="85" y="25" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="10b056a9c633e61c-30" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="10b056a9c633e61c-30" value="THP App Story Board" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="1590" height="40" as="geometry" />
         </mxCell>
       </root>
