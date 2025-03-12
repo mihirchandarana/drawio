@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
     <mxGraphModel dx="1762" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -337,7 +337,7 @@
         <mxCell id="Q3xja7wXnNEby3SeK7ck-26" value="Rotation (hrz/vrt)" style="text;strokeColor=none;fillColor=#0085FC;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=5;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Q3xja7wXnNEby3SeK7ck-25">
           <mxGeometry width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q3xja7wXnNEby3SeK7ck-27" value="check box" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Q3xja7wXnNEby3SeK7ck-25">
+        <mxCell id="Q3xja7wXnNEby3SeK7ck-27" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;check box" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Q3xja7wXnNEby3SeK7ck-25">
           <mxGeometry y="30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q3xja7wXnNEby3SeK7ck-28" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;check box&lt;/span&gt;&#xa;&#xa;" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=default;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Q3xja7wXnNEby3SeK7ck-25">
@@ -400,16 +400,8 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zxu9mOXGhpGP7ykbky1S-5" value="Button to be added to the page for re-export of XML if they&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="845" y="1861.5" width="340" height="30" as="geometry" />
+          <mxGeometry x="744.87" y="1861.5" width="340" height="30" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="K6iu67o1AnDCvBRHk9_t" name="Page-2">
-    <mxGraphModel dx="2575" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
